@@ -1,5 +1,7 @@
+import Main from './components/Main';
+
 function App() {
-  return <div className="App">이거 연사람 바보</div>;
+  return <Main />;
 }
 
 export default App;
