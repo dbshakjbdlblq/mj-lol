@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/mj-lol/static/js/main.8f4720ed.js",
+    "static/media/mj_logo.png": "/mj-lol/static/media/mj_logo.fdc174061f0a7752e445.png",
+    "index.html": "/mj-lol/index.html",
+    "static/media/searchIcon.svg": "/mj-lol/static/media/searchIcon.e0b696f327468be32ac4c5e19adcf6ce.svg",
+    "main.8f4720ed.js.map": "/mj-lol/static/js/main.8f4720ed.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8f4720ed.js"
+  ]
+}
